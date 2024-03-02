@@ -1,3 +1,4 @@
 sample	status	group
 pipeline-cost-observer-01	ready	control
 pipeline-cost-observer-02	review	case
+pipeline-cost-observer-03	queued	validation
